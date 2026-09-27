@@ -1,7 +1,12 @@
 # ✈️ SmartTrip AI — Agentic AI-Based Smart Trip Planner
 
 An intelligent multi-agent travel planner powered by **LangGraph**, **MCP**, and **RAG** that creates complete, budget-checked day-by-day itineraries with weather awareness, visa rules, and local event information.
+## 📸 Project Screenshot
 
+![SmartTrip AI](home.png)
+## 📸 Project Screenshot
+
+![SmartTrip AI](output.png)
 ## 🏗️ Architecture
 
 ```
