@@ -1,0 +1,61 @@
+{
+  "destinations": [
+    {
+      "destination": "Singapore",
+      "guide": [
+        "Use public transit for efficient travel between central districts.",
+        "Plan outdoor activities for the morning and keep an indoor alternative for rain.",
+        "Group Marina Bay, Gardens by the Bay, and nearby waterfront areas to reduce backtracking.",
+        "Explore hawker centres for a range of local food options at different price points."
+      ],
+      "activities": [
+        {"name": "Marina Bay waterfront", "setting": "outdoor", "interest": "Architecture"},
+        {"name": "Gardens by the Bay", "setting": "outdoor", "interest": "Nature"},
+        {"name": "National Gallery Singapore", "setting": "indoor", "interest": "Culture"},
+        {"name": "Chinatown heritage district", "setting": "outdoor", "interest": "History"},
+        {"name": "Hawker centre food walk", "setting": "indoor", "interest": "Food"},
+        {"name": "Jewel Changi Airport", "setting": "indoor", "interest": "Shopping"}
+      ],
+      "visa_note": "Entry permission depends on passport nationality, purpose, and current rules. This planner does not determine visa eligibility; verify requirements with Singapore ICA before booking.",
+      "visa_source": {
+        "title": "Singapore Immigration & Checkpoints Authority: Visa Requirements",
+        "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements"
+      },
+      "guide_source": {
+        "title": "Singapore Tourism Board",
+        "url": "https://www.visitsingapore.com/"
+      }
+    },
+    {
+      "destination": "Thailand",
+      "guide": [
+        "Check local transport and travel times before scheduling activities across distant districts.",
+        "Carry drinking water and plan breaks during hot or humid weather.",
+        "Check opening hours and local conditions directly with attractions before visiting."
+      ],
+      "activities": [
+        {"name": "Bangkok riverside walk", "setting": "outdoor", "interest": "Nature"},
+        {"name": "Bangkok National Museum", "setting": "indoor", "interest": "Culture"},
+        {"name": "Historic temple district visit", "setting": "outdoor", "interest": "History"},
+        {"name": "Local market food tasting", "setting": "indoor", "interest": "Food"},
+        {"name": "Covered city shopping arcade", "setting": "indoor", "interest": "Shopping"}
+      ],
+      "visa_note": "Entry permission depends on passport nationality, purpose, and current rules. This planner does not determine visa eligibility; verify requirements with Thai official immigration or e-Visa services before booking.",
+      "visa_source": {
+        "title": "Thailand Official e-Visa Portal",
+        "url": "https://www.thaievisa.go.th/"
+      },
+      "guide_source": {
+        "title": "Tourism Authority of Thailand",
+        "url": "https://www.tourismthailand.org/"
+      }
+    }
+  ],
+  "insurance": {
+    "note": "Consider travel insurance that covers emergency medical care, trip interruption, and baggage. Review exclusions and eligibility in the policy wording; coverage is not included in this planner's cost estimate.",
+    "source": {
+      "title": "Insurance Regulatory and Development Authority of India",
+      "url": "https://irdai.gov.in/"
+    }
+  }
+}

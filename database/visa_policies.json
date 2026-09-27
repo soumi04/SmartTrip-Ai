@@ -1,0 +1,177 @@
+[
+    {
+        "country": "Singapore",
+        "visa_required": true,
+        "visa_type": "e-Visa / Visa on Arrival (for certain categories)",
+        "duration_allowed": "30 days",
+        "processing_time": "3-5 working days",
+        "fee_inr": 2500,
+        "documents_required": [
+            "Valid passport (minimum 6 months validity)",
+            "Recent passport-size photograph",
+            "Confirmed return flight ticket",
+            "Hotel booking confirmation",
+            "Proof of sufficient funds (bank statement)",
+            "Visa application form (Form 14A)"
+        ],
+        "notes": "Indian nationals require a visa. Apply through the Singapore Immigration & Checkpoints Authority (ICA) or a visa-authorized agent. E-visa available through authorized channels.",
+        "official_source": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore",
+        "last_updated": "2026-09-01"
+    },
+    {
+        "country": "Thailand",
+        "visa_required": false,
+        "visa_type": "Visa Exemption / Visa on Arrival",
+        "duration_allowed": "30 days (visa exemption), 15 days (VoA)",
+        "processing_time": "On arrival",
+        "fee_inr": 1700,
+        "documents_required": [
+            "Valid passport (minimum 6 months validity)",
+            "Recent passport-size photograph",
+            "Confirmed return flight ticket within 15 days",
+            "Proof of accommodation",
+            "Proof of funds (10,000 THB per person or 20,000 THB per family)"
+        ],
+        "notes": "India is eligible for Visa on Arrival at designated ports of entry. Visa exemption for up to 30 days was introduced in late 2023. Check current policy as rules change frequently.",
+        "official_source": "https://www.thaiembassy.com/thailand-visa",
+        "last_updated": "2026-09-01"
+    },
+    {
+        "country": "Malaysia",
+        "visa_required": false,
+        "visa_type": "eNTRI / e-Visa",
+        "duration_allowed": "15 days (eNTRI), 30 days (e-Visa)",
+        "processing_time": "24-48 hours",
+        "fee_inr": 1600,
+        "documents_required": [
+            "Valid passport (minimum 6 months validity)",
+            "Recent passport-size photograph",
+            "Confirmed return flight ticket",
+            "Hotel booking confirmation",
+            "Proof of sufficient funds"
+        ],
+        "notes": "Indian nationals can apply for eNTRI (Electronic Travel Registration and Information) for stays up to 15 days. For longer stays, apply for an e-Visa.",
+        "official_source": "https://www.windowmalaysia.my/",
+        "last_updated": "2026-09-01"
+    },
+    {
+        "country": "Japan",
+        "visa_required": true,
+        "visa_type": "Tourist Visa (Single / Multiple Entry)",
+        "duration_allowed": "15-90 days",
+        "processing_time": "5-7 working days",
+        "fee_inr": 450,
+        "documents_required": [
+            "Valid passport (minimum 6 months validity)",
+            "Visa application form",
+            "Recent passport-size photograph",
+            "Cover letter stating purpose of visit",
+            "Detailed day-wise itinerary",
+            "Confirmed flight tickets",
+            "Hotel booking confirmations",
+            "Bank statements (last 6 months)",
+            "Income Tax Returns (last 3 years)"
+        ],
+        "notes": "Japan requires a visa for Indian passport holders. Apply through the Embassy of Japan or VFS Global. Processing is known to be thorough.",
+        "official_source": "https://www.in.emb-japan.go.jp/itprtop_en/index.html",
+        "last_updated": "2026-09-01"
+    },
+    {
+        "country": "Dubai",
+        "visa_required": true,
+        "visa_type": "Tourist e-Visa",
+        "duration_allowed": "30 days (extendable to 60 days)",
+        "processing_time": "3-5 working days",
+        "fee_inr": 7500,
+        "documents_required": [
+            "Valid passport (minimum 6 months validity)",
+            "Recent passport-size colour photograph",
+            "Confirmed return flight ticket",
+            "Hotel booking confirmation",
+            "Bank statement (last 3 months)",
+            "Proof of employment or business"
+        ],
+        "notes": "Indian nationals require a pre-arranged visa for UAE. Can be obtained through airlines, hotels, or licensed travel agents. US visa/Green Card holders may get visa on arrival.",
+        "official_source": "https://www.emiratesvisa.ae/",
+        "last_updated": "2026-09-01"
+    },
+    {
+        "country": "Maldives",
+        "visa_required": false,
+        "visa_type": "Free Visa on Arrival",
+        "duration_allowed": "30 days",
+        "processing_time": "On arrival",
+        "fee_inr": 0,
+        "documents_required": [
+            "Valid passport (minimum 1 month validity beyond departure)",
+            "Confirmed return flight ticket",
+            "Hotel or resort booking confirmation",
+            "Proof of sufficient funds"
+        ],
+        "notes": "All Indian nationals receive a free 30-day tourist visa on arrival. No advance visa application needed.",
+        "official_source": "https://immigration.gov.mv/",
+        "last_updated": "2026-09-01"
+    },
+    {
+        "country": "Sri Lanka",
+        "visa_required": true,
+        "visa_type": "ETA (Electronic Travel Authorization)",
+        "duration_allowed": "30 days (extendable to 180 days)",
+        "processing_time": "24 hours (online)",
+        "fee_inr": 0,
+        "documents_required": [
+            "Valid passport (minimum 6 months validity)",
+            "Confirmed return flight ticket",
+            "Proof of accommodation",
+            "Proof of sufficient funds"
+        ],
+        "notes": "Sri Lanka offers free ETA for Indian nationals (previously $35 was waived as of 2024). Apply online through the official ETA system.",
+        "official_source": "https://www.eta.gov.lk/",
+        "last_updated": "2026-09-01"
+    },
+    {
+        "country": "Bali",
+        "visa_required": false,
+        "visa_type": "Visa on Arrival",
+        "duration_allowed": "30 days (extendable by 30 days)",
+        "processing_time": "On arrival",
+        "fee_inr": 3000,
+        "documents_required": [
+            "Valid passport (minimum 6 months validity)",
+            "Return/onward flight ticket",
+            "Proof of accommodation",
+            "Proof of sufficient funds"
+        ],
+        "notes": "Indonesia offers Visa on Arrival for Indian nationals at Bali's Ngurah Rai International Airport. Pay IDR 500,000 (approx ₹3,000) on arrival.",
+        "official_source": "https://www.imigrasi.go.id/",
+        "last_updated": "2026-09-01"
+    },
+    {
+        "country": "Nepal",
+        "visa_required": false,
+        "visa_type": "No Visa Required",
+        "duration_allowed": "Unlimited",
+        "processing_time": "N/A",
+        "fee_inr": 0,
+        "documents_required": [
+            "Valid passport OR any government-issued photo ID (Aadhaar, Voter ID)"
+        ],
+        "notes": "Indian nationals do not need a visa or passport to enter Nepal. Any valid government-issued photo ID is sufficient.",
+        "official_source": "https://www.immigration.gov.np/",
+        "last_updated": "2026-09-01"
+    },
+    {
+        "country": "Bhutan",
+        "visa_required": false,
+        "visa_type": "Permit on Arrival",
+        "duration_allowed": "Unlimited",
+        "processing_time": "On arrival",
+        "fee_inr": 0,
+        "documents_required": [
+            "Valid passport (minimum 6 months validity) OR Voter ID card"
+        ],
+        "notes": "Indian nationals do not need a visa. A permit is issued on arrival at the border or at Paro Airport. The Sustainable Development Fee (SDF) of $100/day is waived for Indian nationals.",
+        "official_source": "https://www.tourism.gov.bt/",
+        "last_updated": "2026-09-01"
+    }
+]

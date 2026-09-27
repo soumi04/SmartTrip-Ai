@@ -1,0 +1,135 @@
+[
+    {
+        "hotel_id": "H001",
+        "name": "Hotel Boss",
+        "city": "Singapore",
+        "rating": 4.1,
+        "price_per_night_inr": 5000
+    },
+    {
+        "hotel_id": "H002",
+        "name": "Ibis Budget Singapore",
+        "city": "Singapore",
+        "rating": 4.0,
+        "price_per_night_inr": 6000
+    },
+    {
+        "hotel_id": "H003",
+        "name": "Hotel Mi",
+        "city": "Singapore",
+        "rating": 4.2,
+        "price_per_night_inr": 7000
+    },
+    {
+        "hotel_id": "H004",
+        "name": "Marina Bay Hotel",
+        "city": "Singapore",
+        "rating": 4.6,
+        "price_per_night_inr": 9500
+    },
+    {
+        "hotel_id": "H005",
+        "name": "Value Hotel Singapore",
+        "city": "Singapore",
+        "rating": 3.9,
+        "price_per_night_inr": 4200
+    },
+    {
+        "hotel_id": "H006",
+        "name": "Khaosan Palace Hotel",
+        "city": "Bangkok",
+        "rating": 3.8,
+        "price_per_night_inr": 1500
+    },
+    {
+        "hotel_id": "H007",
+        "name": "Ibis Bangkok Riverside",
+        "city": "Bangkok",
+        "rating": 4.1,
+        "price_per_night_inr": 2500
+    },
+    {
+        "hotel_id": "H008",
+        "name": "Eastin Grand Sathorn",
+        "city": "Bangkok",
+        "rating": 4.5,
+        "price_per_night_inr": 4500
+    },
+    {
+        "hotel_id": "H009",
+        "name": "Shangri-La Bangkok",
+        "city": "Bangkok",
+        "rating": 4.8,
+        "price_per_night_inr": 8000
+    },
+    {
+        "hotel_id": "H010",
+        "name": "Spice Country Munnar",
+        "city": "Munnar",
+        "rating": 4.0,
+        "price_per_night_inr": 1800
+    },
+    {
+        "hotel_id": "H011",
+        "name": "Tea Valley Resort",
+        "city": "Munnar",
+        "rating": 4.3,
+        "price_per_night_inr": 3500
+    },
+    {
+        "hotel_id": "H012",
+        "name": "Windermere Estate",
+        "city": "Munnar",
+        "rating": 4.7,
+        "price_per_night_inr": 6000
+    },
+    {
+        "hotel_id": "H013",
+        "name": "Shinjuku Granbell Hotel",
+        "city": "Tokyo",
+        "rating": 4.2,
+        "price_per_night_inr": 7000
+    },
+    {
+        "hotel_id": "H014",
+        "name": "APA Hotel Akihabara",
+        "city": "Tokyo",
+        "rating": 3.9,
+        "price_per_night_inr": 5500
+    },
+    {
+        "hotel_id": "H015",
+        "name": "Hotel Gracery Shinjuku",
+        "city": "Tokyo",
+        "rating": 4.4,
+        "price_per_night_inr": 9000
+    },
+    {
+        "hotel_id": "H016",
+        "name": "Rove Downtown Dubai",
+        "city": "Dubai",
+        "rating": 4.3,
+        "price_per_night_inr": 5000
+    },
+    {
+        "hotel_id": "H017",
+        "name": "Ibis Styles Dubai",
+        "city": "Dubai",
+        "rating": 4.0,
+        "price_per_night_inr": 4000
+    },
+    {
+        "hotel_id": "H018",
+        "name": "JW Marriott Marquis Dubai",
+        "city": "Dubai",
+        "rating": 4.7,
+        "price_per_night_inr": 12000
+    },
+    {
+        "hotel_id": "H019",
+        "name": "Atlantis The Palm",
+        "city": "Dubai",
+        "rating": 4.8,
+        "price_per_night_inr": 25000
+    }
+]

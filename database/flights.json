@@ -1,0 +1,253 @@
+[
+    {
+        "flight_id": "AI101",
+        "airline": "Air India",
+        "origin": "Chennai",
+        "destination": "Singapore",
+        "date": "2026-12-10",
+        "departure": "06:30",
+        "arrival": "13:00",
+        "price_inr": 18500
+    },
+    {
+        "flight_id": "SQ201",
+        "airline": "Singapore Airlines",
+        "origin": "Chennai",
+        "destination": "Singapore",
+        "date": "2026-12-10",
+        "departure": "09:15",
+        "arrival": "16:00",
+        "price_inr": 24500
+    },
+    {
+        "flight_id": "6E301",
+        "airline": "IndiGo",
+        "origin": "Chennai",
+        "destination": "Singapore",
+        "date": "2026-12-10",
+        "departure": "14:20",
+        "arrival": "21:00",
+        "price_inr": 17200
+    },
+    {
+        "flight_id": "AI102",
+        "airline": "Air India",
+        "origin": "Chennai",
+        "destination": "Singapore",
+        "date": "2026-12-15",
+        "departure": "07:00",
+        "arrival": "13:30",
+        "price_inr": 19100
+    },
+    {
+        "flight_id": "AI103",
+        "airline": "Air India",
+        "origin": "Singapore",
+        "destination": "Chennai",
+        "date": "2026-12-13",
+        "departure": "14:30",
+        "arrival": "16:15",
+        "price_inr": 14500
+    },
+    {
+        "flight_id": "SQ202",
+        "airline": "Singapore Airlines",
+        "origin": "Singapore",
+        "destination": "Chennai",
+        "date": "2026-12-13",
+        "departure": "10:20",
+        "arrival": "12:00",
+        "price_inr": 22500
+    },
+    {
+        "flight_id": "6E303",
+        "airline": "IndiGo",
+        "origin": "Singapore",
+        "destination": "Chennai",
+        "date": "2026-12-13",
+        "departure": "18:40",
+        "arrival": "20:20",
+        "price_inr": 13800
+    },
+    {
+        "flight_id": "6E302",
+        "airline": "IndiGo",
+        "origin": "Chennai",
+        "destination": "Singapore",
+        "date": "2026-12-15",
+        "departure": "15:00",
+        "arrival": "21:40",
+        "price_inr": 17800
+    },
+    {
+        "flight_id": "AI201",
+        "airline": "Air India",
+        "origin": "Delhi",
+        "destination": "Singapore",
+        "date": "2026-12-10",
+        "departure": "08:00",
+        "arrival": "16:30",
+        "price_inr": 21000
+    },
+    {
+        "flight_id": "SQ301",
+        "airline": "Singapore Airlines",
+        "origin": "Delhi",
+        "destination": "Singapore",
+        "date": "2026-12-10",
+        "departure": "11:30",
+        "arrival": "20:00",
+        "price_inr": 28000
+    },
+    {
+        "flight_id": "6E401",
+        "airline": "IndiGo",
+        "origin": "Mumbai",
+        "destination": "Singapore",
+        "date": "2026-12-10",
+        "departure": "07:45",
+        "arrival": "15:15",
+        "price_inr": 19500
+    },
+    {
+        "flight_id": "AI301",
+        "airline": "Air India",
+        "origin": "Delhi",
+        "destination": "Bangkok",
+        "date": "2026-12-10",
+        "departure": "06:00",
+        "arrival": "11:30",
+        "price_inr": 14500
+    },
+    {
+        "flight_id": "TG101",
+        "airline": "Thai Airways",
+        "origin": "Delhi",
+        "destination": "Bangkok",
+        "date": "2026-12-10",
+        "departure": "10:00",
+        "arrival": "15:45",
+        "price_inr": 18000
+    },
+    {
+        "flight_id": "6E501",
+        "airline": "IndiGo",
+        "origin": "Mumbai",
+        "destination": "Bangkok",
+        "date": "2026-12-10",
+        "departure": "09:30",
+        "arrival": "14:00",
+        "price_inr": 13500
+    },
+    {
+        "flight_id": "AI401",
+        "airline": "Air India",
+        "origin": "Delhi",
+        "destination": "Dubai",
+        "date": "2026-12-10",
+        "departure": "05:30",
+        "arrival": "07:30",
+        "price_inr": 15000
+    },
+    {
+        "flight_id": "EK201",
+        "airline": "Emirates",
+        "origin": "Mumbai",
+        "destination": "Dubai",
+        "date": "2026-12-10",
+        "departure": "08:00",
+        "arrival": "10:00",
+        "price_inr": 22000
+    },
+    {
+        "flight_id": "6E601",
+        "airline": "IndiGo",
+        "origin": "Chennai",
+        "destination": "Dubai",
+        "date": "2026-12-10",
+        "departure": "12:00",
+        "arrival": "14:30",
+        "price_inr": 16000
+    },
+    {
+        "flight_id": "AI501",
+        "airline": "Air India",
+        "origin": "Delhi",
+        "destination": "Tokyo",
+        "date": "2026-12-10",
+        "departure": "20:30",
+        "arrival": "08:00",
+        "price_inr": 35000
+    },
+    {
+        "flight_id": "NH101",
+        "airline": "ANA",
+        "origin": "Mumbai",
+        "destination": "Tokyo",
+        "date": "2026-12-10",
+        "departure": "22:00",
+        "arrival": "10:30",
+        "price_inr": 42000
+    },
+    {
+        "flight_id": "AI601",
+        "airline": "Air India",
+        "origin": "Kochi",
+        "destination": "Munnar",
+        "date": "2026-12-10",
+        "departure": "N/A",
+        "arrival": "N/A",
+        "price_inr": 0,
+        "notes": "Munnar has no airport. Nearest airport is Kochi (COK). Road transfer ~4 hours."
+    },
+    {
+        "flight_id": "6E701",
+        "airline": "IndiGo",
+        "origin": "Delhi",
+        "destination": "Kochi",
+        "date": "2026-12-10",
+        "departure": "06:30",
+        "arrival": "10:00",
+        "price_inr": 8500
+    },
+    {
+        "flight_id": "6E702",
+        "airline": "IndiGo",
+        "origin": "Mumbai",
+        "destination": "Kochi",
+        "date": "2026-12-10",
+        "departure": "08:00",
+        "arrival": "10:00",
+        "price_inr": 6500
+    },
+    {
+        "flight_id": "AI701",
+        "airline": "Air India",
+        "origin": "Chennai",
+        "destination": "Kochi",
+        "date": "2026-12-10",
+        "departure": "07:30",
+        "arrival": "09:00",
+        "price_inr": 5500
+    },
+    {
+        "flight_id": "SL101",
+        "airline": "SriLankan Airlines",
+        "origin": "Chennai",
+        "destination": "Colombo",
+        "date": "2026-12-10",
+        "departure": "10:30",
+        "arrival": "12:00",
+        "price_inr": 9000
+    },
+    {
+        "flight_id": "UM101",
+        "airline": "IndiGo",
+        "origin": "Delhi",
+        "destination": "Male",
+        "date": "2026-12-10",
+        "departure": "09:00",
+        "arrival": "12:30",
+        "price_inr": 16000
+    }
+]

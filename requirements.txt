@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-core
+langgraph
+langchain-community
+langchain-openai
+tavily-python
+mcp<2
+python-dotenv
+pydantic
+requests
+pandas
+typing_extensions

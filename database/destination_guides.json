@@ -1,0 +1,196 @@
+[
+    {
+        "city": "Singapore",
+        "country": "Singapore",
+        "currency": "SGD",
+        "language": "English, Malay, Mandarin, Tamil",
+        "timezone": "UTC+8",
+        "best_time_to_visit": "February to April (dry season)",
+        "avg_daily_budget_inr": {
+            "budget": 5000,
+            "mid_range": 10000,
+            "luxury": 25000
+        },
+        "top_attractions": [
+            {"name": "Marina Bay Sands", "type": "Landmark", "entry_fee_inr": 1800, "time_needed": "2-3 hours"},
+            {"name": "Gardens by the Bay", "type": "Nature/Park", "entry_fee_inr": 1500, "time_needed": "3-4 hours"},
+            {"name": "Sentosa Island", "type": "Entertainment", "entry_fee_inr": 600, "time_needed": "Full day"},
+            {"name": "Chinatown", "type": "Cultural", "entry_fee_inr": 0, "time_needed": "2-3 hours"},
+            {"name": "Little India", "type": "Cultural", "entry_fee_inr": 0, "time_needed": "2-3 hours"},
+            {"name": "Merlion Park", "type": "Landmark", "entry_fee_inr": 0, "time_needed": "1 hour"},
+            {"name": "Universal Studios Singapore", "type": "Theme Park", "entry_fee_inr": 5000, "time_needed": "Full day"},
+            {"name": "Singapore Zoo", "type": "Nature", "entry_fee_inr": 2800, "time_needed": "4-5 hours"},
+            {"name": "Orchard Road", "type": "Shopping", "entry_fee_inr": 0, "time_needed": "3-4 hours"},
+            {"name": "Clarke Quay", "type": "Nightlife", "entry_fee_inr": 0, "time_needed": "2-3 hours"}
+        ],
+        "local_transport": {
+            "mrt_day_pass_inr": 800,
+            "taxi_base_fare_inr": 250,
+            "grab_avg_ride_inr": 500
+        },
+        "food_costs": {
+            "hawker_centre_meal_inr": 300,
+            "restaurant_meal_inr": 1200,
+            "fine_dining_inr": 5000
+        },
+        "tips": [
+            "Get an EZ-Link card for MRT and bus travel — much cheaper than single tickets.",
+            "Hawker centres are the best way to eat affordably — try Maxwell Food Centre.",
+            "Many attractions offer discounts if booked online in advance.",
+            "December is peak season with Christmas decorations along Orchard Road.",
+            "Tap water is safe to drink throughout Singapore."
+        ]
+    },
+    {
+        "city": "Bangkok",
+        "country": "Thailand",
+        "currency": "THB",
+        "language": "Thai",
+        "timezone": "UTC+7",
+        "best_time_to_visit": "November to February (cool and dry season)",
+        "avg_daily_budget_inr": {
+            "budget": 2500,
+            "mid_range": 6000,
+            "luxury": 15000
+        },
+        "top_attractions": [
+            {"name": "Grand Palace", "type": "Historical", "entry_fee_inr": 450, "time_needed": "3-4 hours"},
+            {"name": "Wat Pho (Reclining Buddha)", "type": "Temple", "entry_fee_inr": 180, "time_needed": "1-2 hours"},
+            {"name": "Chatuchak Weekend Market", "type": "Shopping", "entry_fee_inr": 0, "time_needed": "4-5 hours"},
+            {"name": "Khao San Road", "type": "Nightlife/Street", "entry_fee_inr": 0, "time_needed": "2-3 hours"},
+            {"name": "Wat Arun", "type": "Temple", "entry_fee_inr": 90, "time_needed": "1-2 hours"},
+            {"name": "Floating Markets", "type": "Cultural", "entry_fee_inr": 250, "time_needed": "Half day"}
+        ],
+        "local_transport": {
+            "bts_day_pass_inr": 350,
+            "tuk_tuk_avg_ride_inr": 150,
+            "grab_avg_ride_inr": 200
+        },
+        "food_costs": {
+            "street_food_meal_inr": 120,
+            "restaurant_meal_inr": 500,
+            "fine_dining_inr": 3000
+        },
+        "tips": [
+            "Always negotiate tuk-tuk fares before boarding.",
+            "The BTS Skytrain and MRT are the fastest way to get around.",
+            "Dress modestly when visiting temples — cover shoulders and knees.",
+            "Street food in Bangkok is some of the best and cheapest in the world.",
+            "Beware of common tourist scams — 'temple is closed today' is never true."
+        ]
+    },
+    {
+        "city": "Munnar",
+        "country": "India",
+        "currency": "INR",
+        "language": "Malayalam, English",
+        "timezone": "UTC+5:30",
+        "best_time_to_visit": "September to March (pleasant weather)",
+        "avg_daily_budget_inr": {
+            "budget": 2000,
+            "mid_range": 4500,
+            "luxury": 10000
+        },
+        "top_attractions": [
+            {"name": "Tea Gardens", "type": "Nature", "entry_fee_inr": 0, "time_needed": "2-3 hours"},
+            {"name": "Eravikulam National Park", "type": "Wildlife", "entry_fee_inr": 125, "time_needed": "3-4 hours"},
+            {"name": "Mattupetty Dam", "type": "Nature", "entry_fee_inr": 30, "time_needed": "2 hours"},
+            {"name": "Top Station", "type": "Viewpoint", "entry_fee_inr": 0, "time_needed": "2-3 hours"},
+            {"name": "Attukal Waterfalls", "type": "Nature", "entry_fee_inr": 0, "time_needed": "1-2 hours"},
+            {"name": "Tea Museum", "type": "Museum", "entry_fee_inr": 75, "time_needed": "1-2 hours"}
+        ],
+        "local_transport": {
+            "auto_rickshaw_inr": 100,
+            "taxi_full_day_inr": 2000,
+            "bus_fare_inr": 30
+        },
+        "food_costs": {
+            "local_restaurant_inr": 150,
+            "mid_range_restaurant_inr": 500,
+            "hotel_dining_inr": 1200
+        },
+        "tips": [
+            "Book a jeep safari to explore the tea plantations and spice gardens.",
+            "Carry warm clothes — it gets quite cold, especially in December-January.",
+            "Best views are early morning before clouds roll in.",
+            "Try local Kerala cuisine — appam, puttu, and Kerala-style fish curry.",
+            "Weekends and holidays see heavy tourist traffic — visit on weekdays if possible."
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "currency": "JPY",
+        "language": "Japanese",
+        "timezone": "UTC+9",
+        "best_time_to_visit": "March to May (cherry blossom) or October to November (autumn foliage)",
+        "avg_daily_budget_inr": {
+            "budget": 6000,
+            "mid_range": 12000,
+            "luxury": 30000
+        },
+        "top_attractions": [
+            {"name": "Senso-ji Temple", "type": "Temple", "entry_fee_inr": 0, "time_needed": "2-3 hours"},
+            {"name": "Shibuya Crossing", "type": "Landmark", "entry_fee_inr": 0, "time_needed": "1 hour"},
+            {"name": "Meiji Shrine", "type": "Temple", "entry_fee_inr": 0, "time_needed": "2 hours"},
+            {"name": "Akihabara", "type": "Shopping/Entertainment", "entry_fee_inr": 0, "time_needed": "3-4 hours"},
+            {"name": "Tsukiji Outer Market", "type": "Food", "entry_fee_inr": 0, "time_needed": "2-3 hours"},
+            {"name": "Tokyo Skytree", "type": "Landmark", "entry_fee_inr": 1500, "time_needed": "2 hours"}
+        ],
+        "local_transport": {
+            "suica_day_pass_inr": 1200,
+            "taxi_base_fare_inr": 550,
+            "jr_pass_7day_inr": 22000
+        },
+        "food_costs": {
+            "ramen_shop_inr": 500,
+            "restaurant_meal_inr": 1500,
+            "fine_dining_inr": 8000
+        },
+        "tips": [
+            "Get a Suica or Pasmo IC card for seamless travel on trains and buses.",
+            "Convenience stores (7-Eleven, Lawson) have excellent, affordable food.",
+            "Japan Rail Pass is worth it if travelling between cities.",
+            "Most places are cash-preferred — carry yen with you.",
+            "Tipping is not customary and can be considered rude."
+        ]
+    },
+    {
+        "city": "Dubai",
+        "country": "UAE",
+        "currency": "AED",
+        "language": "Arabic, English",
+        "timezone": "UTC+4",
+        "best_time_to_visit": "November to March (cooler weather)",
+        "avg_daily_budget_inr": {
+            "budget": 5000,
+            "mid_range": 12000,
+            "luxury": 35000
+        },
+        "top_attractions": [
+            {"name": "Burj Khalifa", "type": "Landmark", "entry_fee_inr": 3000, "time_needed": "2-3 hours"},
+            {"name": "Dubai Mall", "type": "Shopping", "entry_fee_inr": 0, "time_needed": "4-5 hours"},
+            {"name": "Palm Jumeirah", "type": "Landmark", "entry_fee_inr": 0, "time_needed": "3-4 hours"},
+            {"name": "Dubai Marina", "type": "Leisure", "entry_fee_inr": 0, "time_needed": "2-3 hours"},
+            {"name": "Desert Safari", "type": "Adventure", "entry_fee_inr": 3500, "time_needed": "Half day"},
+            {"name": "Gold Souk", "type": "Shopping", "entry_fee_inr": 0, "time_needed": "2-3 hours"}
+        ],
+        "local_transport": {
+            "metro_day_pass_inr": 500,
+            "taxi_base_fare_inr": 350,
+            "uber_avg_ride_inr": 600
+        },
+        "food_costs": {
+            "street_food_inr": 400,
+            "restaurant_meal_inr": 1500,
+            "fine_dining_inr": 8000
+        },
+        "tips": [
+            "Visit the Burj Khalifa at sunset for the best views.",
+            "Dubai Metro is efficient and affordable for most tourist areas.",
+            "Friday brunch is a Dubai institution — book in advance for popular spots.",
+            "Dress modestly in malls and public areas.",
+            "Summer months (June-August) are extremely hot — avoid if possible."
+        ]
+    }
+]
